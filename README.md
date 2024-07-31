@@ -1,2 +1,2 @@
-# Proyectos_TripleTen
-Proyectos del bootcamp TripleTen de data science
+# Projects_TripleTen
+Projects from the TripleTen Data Science Bootcamp
