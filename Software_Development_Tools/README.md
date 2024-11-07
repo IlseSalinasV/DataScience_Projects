@@ -1,3 +1,3 @@
-# Referencia a otro repositorio donde se ubican los archivos de este proyecto 
+# Reference to another repository where the files of this project are located.
 
-Este proyecto incluye un enlace al [otro repositorio](https://github.com/IlseSalinasV/Proyecto_5.git).
+This project includes a link to the [other repository](https://github.com/IlseSalinasV/Proyecto_5.git).
